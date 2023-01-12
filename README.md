@@ -1,2 +1,3 @@
 # studyNotes
-This is a warehouse that records the daily study of a college student！
+This is a repository for college students documenting their Java learning
+Most share some knowledge about Java
